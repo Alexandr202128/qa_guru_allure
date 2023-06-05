@@ -14,7 +14,7 @@ import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 import static io.qameta.allure.Allure.step;
 
-public class checkGitIssue {
+public class GitIssueTests {
 
     private static final String REPOSITORY = "eroshenkoam/allure-example";
 
